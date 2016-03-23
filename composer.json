@@ -1,0 +1,15 @@
+{
+  "name": "ninecells/cell-shop",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.5.9",
+    "ninecells/cell-member": "*",
+    "ninecells/assets-twbs3-jbtrn-narrow": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "NineCells\\Shop\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
